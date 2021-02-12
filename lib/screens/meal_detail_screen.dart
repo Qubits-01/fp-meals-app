@@ -48,6 +48,7 @@ class MealDetailScreen extends StatelessWidget {
       body: SingleChildScrollView(
         child: Column(
           children: <Widget>[
+            // ignore: sized_box_for_whitespace
             Container(
               height: 300,
               width: double.infinity,

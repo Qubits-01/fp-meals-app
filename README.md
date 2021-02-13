@@ -1,6 +1,6 @@
 # fp_meals_app
 
-A new Flutter project.
+Section 7: Navigation & Multiple Screens [MEALS APP] of A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps.
 
 ## Getting Started
 
